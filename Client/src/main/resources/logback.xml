@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true" scanPeriod="5 seconds">
+
+    <appender name="file" class="ch.qos.logback.core.FileAppender">
+        <file>log/client.log</file>
+
+        <encoder>
+            <charset>UTF-8</charset>
+            <pattern>%date %-5level %logger{50}.%M:%L - %msg%n</pattern>
+        </encoder>
+        <maxHistory>10</maxHistory>
+    </appender>
+
+    <root level="info">
+        <appender-ref ref="file"/>
+    </root>
+</configuration>

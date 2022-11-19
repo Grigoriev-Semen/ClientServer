@@ -1,0 +1,6 @@
+2022-11-19 17:37:25,027 INFO  Server.start:21 - Server startup
+2022-11-19 17:37:34,457 INFO  Server.start:25 - New connection accepted
+2022-11-19 17:37:43,956 INFO  Server.run:48 - Connected - Bob
+2022-11-19 17:37:51,721 INFO  Server.run:54 - Bob --> Hi all
+2022-11-19 17:37:55,769 INFO  Server.run:60 - Bob - left the chat
+

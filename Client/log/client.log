@@ -1,0 +1,5 @@
+2022-11-19 17:37:34,473 INFO  Client.run:62 - Enter your name.
+2022-11-19 17:37:43,955 INFO  Client.run:47 - Bob
+2022-11-19 17:37:43,959 INFO  Client.run:62 - Connected - Bob
+2022-11-19 17:37:51,718 INFO  Client.run:47 - Hi all
+2022-11-19 17:37:51,726 INFO  Client.run:62 - Bob --> Hi all
